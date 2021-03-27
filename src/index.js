@@ -4,8 +4,9 @@ import './index.css';
 import App from './App';
 import { BrowserRouter } from  'react-router-dom';
 
+//I have add basename for github pages deployment
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={'/JitsiReact/'}>
 	<React.StrictMode>
 		<App />
 	</React.StrictMode>
