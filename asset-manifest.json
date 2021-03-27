@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JitsiReact/static/css/main.c311068e.chunk.css",
-    "main.js": "/JitsiReact/static/js/main.3cf747af.chunk.js",
-    "main.js.map": "/JitsiReact/static/js/main.3cf747af.chunk.js.map",
+    "main.js": "/JitsiReact/static/js/main.84dfcc12.chunk.js",
+    "main.js.map": "/JitsiReact/static/js/main.84dfcc12.chunk.js.map",
     "runtime-main.js": "/JitsiReact/static/js/runtime-main.6cbd846e.js",
     "runtime-main.js.map": "/JitsiReact/static/js/runtime-main.6cbd846e.js.map",
     "static/js/2.36d62cd6.chunk.js": "/JitsiReact/static/js/2.36d62cd6.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6cbd846e.js",
     "static/js/2.36d62cd6.chunk.js",
     "static/css/main.c311068e.chunk.css",
-    "static/js/main.3cf747af.chunk.js"
+    "static/js/main.84dfcc12.chunk.js"
   ]
 }
